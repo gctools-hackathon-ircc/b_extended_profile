@@ -1,0 +1,8 @@
+{
+    "name": "gctools-hackathon-ircc/b_extended_profile",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+		"mnsami/composer-custom-directory-installer": "1.1.*"
+	}
+}
