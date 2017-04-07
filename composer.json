@@ -1,6 +1,6 @@
 {
     "name": "gctools-hackathon-ircc/b_extended_profile",
-    "type": "composer-plugin",
+    "type": "library",
     "minimum-stability": "dev",
     "require": {}
 }
